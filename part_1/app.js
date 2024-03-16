@@ -1,7 +1,7 @@
-const student = {
-  fullName: "MD ABDUL SALAM",
-  age: 19,
-  cgpa: 4.22,
-  isPass: true
+const product = {
+  title: "Ball Pen",
+  rating: 4,
+  offer: 5,
+  price: 270
 }
-console.log(student["age"])
+console.log(product);
