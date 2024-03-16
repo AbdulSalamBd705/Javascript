@@ -3,6 +3,5 @@ const student = {
   age: 19,
   cgpa: 4.22,
   isPass: true
-};
-
-console.log( student);
+}
+console.log(student["age"])
