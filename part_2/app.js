@@ -56,3 +56,34 @@
 // console.log("a >= b ", a >= b);
 
 // Logical Operators
+// && || !
+
+// let a = 6;
+// let b = 7;
+
+// console.log("a > b && a === 6", a<b && a===6); // true
+
+// console.log("a > b || a === 6", a> b || a === 6); // true
+
+// console.log(!(a> b)); // false
+
+// Conditional Statements
+// let age = 20;
+// if(age <= 19){
+//   console.log("Can Love");
+// }else if  (age <= 22){
+//   console.log("You Can Mary")
+// }
+// else {
+//   console.log("Can Not Love");
+// }
+
+let mode = "light";
+let color;
+
+if( mode === "dark" ){
+  color = "black";
+}else if(mode === "light"){
+  color = "white";
+}
+console.log(color);
