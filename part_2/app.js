@@ -144,3 +144,38 @@
 // let sum = salam + kone;
 // let love = sum >= 100 ? `love is ${sum}%` : `love is ${sum}% not love`;
 // console.log(love);
+
+// Switch 
+// const expr = "";
+// switch (expr){
+//   case "salam":
+//     console.log("My Name Is Abdul Salam");
+//     break;
+//   case "kona":
+//     console.log("My Lover Name Is Kona");
+//   break;
+//   default:
+//     console.log("I'm a Single");    
+// }
+
+// let number = "50";
+
+// switch(number){
+//   case "1" :
+//   console.log(`${number}% Love`);
+//   break;
+//   case "20" : 
+//   console.log(`${number}% Love`);
+//   break;
+//   case "30":
+//     console.log(`${number}% love`);
+//   break;
+//   case "50":
+//   console.log(`${number}% love`);
+//   break;
+//   default:
+//     console.log("Enter a Number");
+// }
+
+
+// let's Practice 
