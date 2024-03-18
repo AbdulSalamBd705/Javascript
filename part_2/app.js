@@ -68,6 +68,8 @@
 // console.log(!(a> b)); // false
 
 // Conditional Statements
+
+// if else 
 // let age = 20;
 // if(age <= 19){
 //   console.log("Can Love");
@@ -130,3 +132,15 @@
 // }
 
 // console.log(color)
+
+// Ternary Operators
+// let age = 18;
+// let result = age >= 18 ? "Abutl" : "Not Adult";
+
+// console.log(result);
+
+let salam = 50;
+let kone = 49;
+let sum = salam + kone;
+let love = sum >= 100 ? `love is ${sum}%` : `love is ${sum}% not love`;
+console.log(love);
