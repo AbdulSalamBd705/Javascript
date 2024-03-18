@@ -139,8 +139,8 @@
 
 // console.log(result);
 
-let salam = 50;
-let kone = 49;
-let sum = salam + kone;
-let love = sum >= 100 ? `love is ${sum}%` : `love is ${sum}% not love`;
-console.log(love);
+// let salam = 50;
+// let kone = 50;
+// let sum = salam + kone;
+// let love = sum >= 100 ? `love is ${sum}%` : `love is ${sum}% not love`;
+// console.log(love);
