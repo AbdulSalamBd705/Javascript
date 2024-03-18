@@ -78,12 +78,55 @@
 //   console.log("Can Not Love");
 // }
 
-let mode = "light";
-let color;
+// let mode = "light";
+// let color;
 
-if( mode === "dark" ){
-  color = "black";
-}else if(mode === "light"){
-  color = "white";
-}
-console.log(color);
+// if( mode === "dark" ){
+//   color = "black";
+// }else if(mode === "light"){
+//   color = "white";
+// }
+// console.log(color);
+// let age = 16;
+
+// if (age >= 18){
+//   console.log("vote");
+// }else {
+//   console.log("Not avote");
+// }
+
+// odd or even 
+// let num = 2;
+// if(num % 2 === 0){
+//   console.log(num, "is Even")
+// }
+// else{
+//   console.log(num, "is Odd")
+// }
+// syntax -> rules
+
+// let age = 61;
+
+// if(age < 18){
+//   console.log("Junior");
+// }else if (age > 60){
+//   console.log("Senior");
+// }
+// else{
+//   console.log("Middle")
+// }
+
+// let mode = "pink";
+// let color;
+
+// if(mode === "dark"){
+//   color = "black";
+// }else if(mode === "blue"){
+//   color = "blue";
+// }else if(mode === "pink"){
+//   color = "Pink"
+// }else {
+//   color  = "White"
+// }
+
+// console.log(color)
