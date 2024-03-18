@@ -188,17 +188,17 @@
 
 
 
-let number = prompt("Enter a Number");
-if(number >= 80 && number <= 100){
-  console.log("A")
-}else if(number >= 70 && number <= 79){
-  console.log("B");
-}
-else if(number >= 60 && number <= 69){
-  console.log("c")
-}
-else if(number >= 50 && number <= 59){
-   console.log("D")
-}else{
-  console.log("F")
-}
+// let number = prompt("Enter a Number");
+// if(number >= 90 && number <= 100){
+//   console.log("A")
+// }else if(number >= 70 && number <= 89){
+//   console.log("B");
+// }
+// else if(number >= 60 && number <= 69){
+//   console.log("c")
+// }
+// else if(number >= 50 && number <= 59){
+//    console.log("D")
+// }else{
+//   console.log("F")
+// }
