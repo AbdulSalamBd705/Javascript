@@ -41,8 +41,30 @@
 // }
 
 // Do While Loop
-let i = 1;
-do{
-  console.log("I =", i);
-  i++;
-} while(i<=10);
+// let i = 1;
+// do{
+//   console.log("I =", i);
+//   i++;
+// } while(i<=10);
+
+// let j = 1;
+// do{
+//   console.log("J =", j);
+//   j++;
+// }while(j<=10);
+
+
+// for-of loop
+// let str = "My name is Abdul Salam";
+// for(let i of str){
+//   console.log("I =", i);
+// }
+
+let str = "JavaScript";
+
+let size = 0;
+for(let val of str){
+  console.log("val =", val);
+  size++;
+}
+console.log("String size = ", size);
