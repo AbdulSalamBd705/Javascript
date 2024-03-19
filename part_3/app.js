@@ -16,4 +16,26 @@
 // for (let i = 1; i<= n; i++){
 //   sum = sum + i;
 // }
-// console.log(sum)
+// console.log(sum);
+
+// for (let i = 1; i <= 5; i++){
+//   console.log("I =", i)
+// }
+// not use
+// for(let i = 1; i>= 0; i++){
+//   console.log("I = ", i);
+// }
+
+// While Loop 
+// let i = 1;
+// while(i<=10){
+//   console.log("I =", i);
+//   i++;
+// }
+
+// let sum = "My name is Abdul Salam";
+// let i = 1;
+// while(i<=10){
+//   console.log(sum);
+//   i++;
+// }
