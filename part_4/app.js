@@ -23,3 +23,6 @@
 // let text = "My Name Is Abdul Salam";
 // console.log(text.charAt(1));
 
+// JavaScript String charDodeAt();
+let text = "HELLO WORLD";
+console.log(text.charCodeAt(1));
