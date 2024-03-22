@@ -84,3 +84,19 @@
 
 // Let's Practice 
 // Qs1. Print all Even Number from 0 to 100.
+// for(let i = 0; i <= 100; i++){
+//   console.log(i);
+// };
+// Event Number
+for(let i = 0; i <= 100; i++){
+  if(i%2 === 0){
+    console.log("Number =", i);
+  }
+};
+
+// Odd Number 
+for(let i = 0; i<= 100; i++){
+  if(i%2 !== 0){
+    console.log("Number =", i);
+  }
+};
