@@ -80,3 +80,7 @@
 // for(let i in student){
 //   console.log(i);
 // };
+
+
+// Let's Practice 
+// Qs1. Print all Even Number from 0 to 100.
