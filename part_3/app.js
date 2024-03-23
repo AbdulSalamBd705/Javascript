@@ -112,4 +112,6 @@
 // };
 // console.log("Congratulations, You entered the right number");
 
+// // Strings 
+// let str = "My name is Abdul Salam";
 
