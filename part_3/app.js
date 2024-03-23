@@ -87,16 +87,29 @@
 // for(let i = 0; i <= 100; i++){
 //   console.log(i);
 // };
-// Event Number
-for(let i = 0; i <= 100; i++){
-  if(i%2 === 0){
-    console.log("Number =", i);
-  }
-};
+// // Event Number
+// for(let i = 0; i <= 100; i++){
+//   if(i%2 === 0){
+//     console.log("Number =", i);
+//   }
+// };
 
-// Odd Number 
-for(let i = 0; i<= 100; i++){
-  if(i%2 !== 0){
-    console.log("Number =", i);
-  }
-};
+// // Odd Number 
+// for(let i = 0; i<= 100; i++){
+//   if(i%2 !== 0){
+//     console.log("Number =", i);
+//   }
+// };
+
+
+// Qs2. 
+// // create a game where you start with any random game number. ask the user to keep guessing the game number until the user ent ers correct value.
+
+// let userNumber = prompt("Please enter your game number :");
+// let gameNumber = 25;
+// while(userNumber != gameNumber){
+//   userNumber = prompt("You entered wrong number. Guess again : ")
+// };
+// console.log("Congratulations, You entered the right number");
+
+
