@@ -142,5 +142,17 @@
 // console.log("My Name is\tAbdul Salam");
 
 // String Methods is js 
-let name = "My nam is abdul salam";
-console.log(name.toUpperCase());
+// let name = "                  My nam is abdul salam              ";
+// console.log(name.toUpperCase()); // Uppercase 
+// console.log(name.toLowerCase()); //Lowercase
+// console.log(name.trim()) // remove Whitwspaces
+
+// 1. Sclice // returns part of string 
+// 2. concat // joins 
+// 3. replace // searchVal newVal
+// 4. chartAt // idx
+
+// let fullName = prompt("Enter Your FullName without spaces");
+
+// let username = "@" + fullName + fullName.length;
+// console.log(username);
