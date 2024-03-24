@@ -137,3 +137,10 @@
 
 // let output =  `hte cost of ${obj.item} is ${obj.price} taka`;
 // console.log(output);
+// console.log('My Name is \n Abdul Salam'); // Text Line
+
+// console.log("My Name is\tAbdul Salam");
+
+// String Methods is js 
+let name = "My nam is abdul salam";
+console.log(name.toUpperCase());
