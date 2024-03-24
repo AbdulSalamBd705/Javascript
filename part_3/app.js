@@ -112,16 +112,18 @@
 // };
 // console.log("Congratulations, You entered the right number");
 
-// // // Strings 
+
+// let number = prompt("Please Enter Your Number :");
+// let user = 20;
+
+// while(user != number){
+//   number = prompt("Please Enter Your Number :");
+// }
+// console.log(number);
+
+// Strings 
 // let str = "My name is Abdul Salam";
 
 // console.log(str.length)
-
-
-let number = prompt("Please Enter Your Number :");
-let user = 20;
-
-while(user != number){
-  number = prompt("Please Enter Your Number :");
-}
-console.log(number);
+let name = 'My name is Abdul Salam';
+console.log(name[0]);
