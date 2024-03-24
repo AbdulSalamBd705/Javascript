@@ -125,5 +125,15 @@
 // let str = "My name is Abdul Salam";
 
 // console.log(str.length)
-let name = 'My name is Abdul Salam';
-console.log(name[0]);
+// let name = 'My name is Abdul Salam';
+// console.log(name[3]);
+
+// Template Literals 
+
+// let obj = {
+//   item: "pen",
+//   price: 10
+// };
+
+// let output =  `hte cost of ${obj.item} is ${obj.price} taka`;
+// console.log(output);
