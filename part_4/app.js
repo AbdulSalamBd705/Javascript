@@ -23,3 +23,20 @@
 // for(let index = 0; index < name.length; index++){
 //   console.log(name[index]);
 // };
+
+// for( let hero of name){
+//   console.log(hero);
+// };
+
+// for (let i of name ){
+//   console.log(i);
+// }
+
+// for (let i of name){
+//   console.log(i);
+// };
+
+// let numbers = [1,2,3,4,5,6,7,8,9];
+// for(let index of numbers){
+//   console.log(index)
+// }
