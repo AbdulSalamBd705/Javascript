@@ -98,6 +98,42 @@
 
 // console.log(text);
 
-for(let i = 0; i < 20; i++){
-  console.log(i);
+// for(let i = 0; i < 20; i++){
+//   console.log(i);
+// };
+
+// const name = {
+//   fname: "MD",
+//   lname: "ABDUL SALAM",
+//   age: 21,
+//   cgpa: 4.22
+// }
+
+// for(let index in name){
+//   console.log(name[index]);
+// };
+
+// const person = {fname:"John", lname:"Doe", age:25}; 
+// for(let x in person){
+//   console.log(person[x]);
+// };
+
+// const numbers = [45, 4, 9, 16, 25];
+// let text = "";
+// for(let x in numbers){
+//   console.log(numbers[x]);
+// };
+
+// const cars = ["BMW", "Volvo", "Mini"];
+// let text = "";
+// for(let x of cars){
+//   text += x;
+// };
+// console.log(text);
+
+let language = "JavaScript";
+let text = "";
+for(let x of language){
+  text += x;
 };
+console.log(text);
