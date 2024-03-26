@@ -68,3 +68,36 @@
 // for(let x of a){
 //   console.log(x);
 // };
+
+
+// While Loops 
+// let i = 0;
+// let text = "";
+
+// while(i < 10){
+//   text += "The number is " + i ;
+//   i++;
+// };
+// console.log(text);
+
+// const cars = ["MBW", "VOLVO", "SAAB", "FORD"];
+// let i = 0;
+// let text = "";
+// while(cars[i]){
+//   text += cars[i];
+//   i++;
+// }
+// console.log(text);
+
+// let i = 0;
+// let text = "";
+// while(i < 20){
+//   text += i;
+//   i++;
+// };
+
+// console.log(text);
+
+for(let i = 0; i < 20; i++){
+  console.log(i);
+};
