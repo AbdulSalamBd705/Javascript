@@ -131,9 +131,16 @@
 // };
 // console.log(text);
 
-let language = "JavaScript";
-let text = "";
-for(let x of language){
-  text += x;
-};
-console.log(text);
+// let language = "JavaScript";
+// let text = "";
+// for(let x of language){
+//   text += x;
+// };
+// // console.log(text);
+// let text = "";
+// let i = 0;
+// while(i < 10){
+//   text += "hello world";
+//   i++;
+// }
+// console.log(text);
