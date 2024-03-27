@@ -53,3 +53,16 @@
 //   sum += val;
 // };
 // console.log(sum);
+
+// Let's  Practice 
+// Qs. For a given array with marks of students -> [85, 97, 44, 37, 76, 60]
+// Find the Average marks of the entire class 
+
+let marks = [85, 97, 44, 37, 76, 60];
+
+let sum = 0;
+
+for(let val of marks){
+  sum += val;
+}
+console.log(sum);
