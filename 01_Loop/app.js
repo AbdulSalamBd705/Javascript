@@ -144,3 +144,7 @@
 //   i++;
 // }
 // console.log(text);
+
+
+// Set
+const mySet = new Set();
