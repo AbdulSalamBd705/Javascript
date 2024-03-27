@@ -58,11 +58,17 @@
 // Qs. For a given array with marks of students -> [85, 97, 44, 37, 76, 60]
 // Find the Average marks of the entire class 
 
-let marks = [85, 97, 44, 37, 76, 60];
+// let marks = [85, 97, 44, 37, 76, 60];
 
-let sum = 0;
+// let sum = 0;
 
-for(let val of marks){
-  sum += val;
-}
-console.log(sum);
+// for(let val of marks){
+//   sum += val;
+// }
+// let avg = sum / marks.length;
+// console.log(`avg marks of the class = ${avg}`);
+
+
+// Let's Practice 
+// Qs. For a given array with prices of 5 items -> [250, 645, 300, 900, 50]
+// All items have an offer of 10% off them. Chem. Change the Array to store final price after applying offer 
