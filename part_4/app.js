@@ -40,3 +40,16 @@
 // for(let index of numbers){
 //   console.log(index)
 // }
+
+// let language ="JavaScript";
+// for(let i of language){
+//   console.log(i);
+// };
+
+
+// let marks = [85, 97, 44, 37, 76, 60];
+// let sum = 0;
+// for(let val of marks){
+//   sum += val;
+// };
+// console.log(sum);
