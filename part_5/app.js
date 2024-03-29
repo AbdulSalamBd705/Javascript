@@ -34,3 +34,111 @@
 // const functionName = (Param1, param2....)=>{
   // do some work
 // }
+// sum function 
+// function sum(a, b){
+//   return a + b;
+// }
+
+// Multiplication function
+// function mul(a, b){
+//   return a * b;
+// }
+
+// const sum = (x, y)=>{
+//   let s = x + y;
+//   return s;
+// }
+// let c = sum(12,13);
+// console.log(c);
+
+// const sum = (x, y)=>{
+//    s = x + y;
+//   return s;
+// }
+// let c = prompt("Please Enter a number :")
+// let b = prompt("Please Enter a number :");
+// let k = sum(c, b);
+// console.log(k);
+
+// const printHello = ()=> console.log("Hello!");
+
+// printHello();
+
+
+// let's Practice 
+// Qs. Create a function using the "function" keyword that takes aString as an argument & returns the number of vowels in the string.
+
+
+
+// function countVowels(str){
+//   let count = 0;
+//   for(const char of str){
+//    if(char === "a" || char === "e" ||char === "i" || char === "o" || char === "u"){
+//     count++;
+//    }
+//   }
+//   return count;
+// };
+// console.log(countVowels("crazy programmer"));
+
+// Qs. Create an arrow function to perform the same task
+
+// const countVowel = (str)=>{
+//   let count = 0;
+//   for(const char of str){
+//     if(char === 'a' || char === 'e'){
+//       count++;
+//     }
+//   };
+//   return count++;
+// };
+
+// console.log(countVowel("Salam"));
+
+
+// const darkmode = (str)=>{
+//   if(str === 'salam'){
+//     console.log("Dark mode");
+//   }
+//   else if(str === "kona"){
+//     console.log("Light Mode ");
+//   }
+//   else{
+//     console.log("Please Enter colot : ")
+//   }
+// }
+// darkmode("kona");
+
+// const userData = (str)=>{
+//   let count = 0;
+//   if(str === "salam"){
+//     count++;
+//   }
+
+//   return count;
+// }
+// console.log(userData("salam"));
+
+// const userData = (str)=>{
+//   let count = 0;
+//   for(const char of str){
+//     if(char === "s" || char === "k"){
+//       count++;
+//     };
+//   };
+//   return count;
+// };
+// console.log(userData("kone salam"));
+
+// const wordsCount = (str)=>{
+//   let words = 0;
+//   let textArray = Array.from(str);
+//   for(let i = 0; i < textArray.length; i++){
+//     if(textArray[i] === " "){
+//       words++;
+//     };
+//   };
+//   console.log(words);
+// };
+
+// wordsCount("my name is Abdul Salam. I am a Web Developer & Designer");
