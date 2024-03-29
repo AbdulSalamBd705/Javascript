@@ -216,3 +216,57 @@
 // })
 
 // console.log(output);
+
+// let arr = [5, 6, 8, 1, 10,101, 3];
+
+// const output = arr.reduce((prev, curr)=>{
+//   return prev > curr ? prev : curr;
+// })
+
+// console.log(output);
+
+// Let's Practice 
+// Qs. We are given array of marks of students. filter our o the marks of students that scored 90+
+// let marks = [97, 64, 32, 49, 99, 96, 86];
+
+// let toppers = marks.filter((val)=>{
+//   return val > 90;
+// })
+// console.log(toppers);
+
+
+
+
+// Qs. take a number n as input from user. Create an array of numbers from 1 to n.
+
+// let n = prompt("Enter a Number : ");
+
+// let arr = [];
+
+// for(let i = 1; i< n; i++){
+//   arr[i-1] = i;
+// }
+// console.log(arr);
+
+
+
+
+
+
+// Use the reduce method to calculate sum of all numbers in the array
+
+// let n = prompt("Enter a Number : ");
+
+// let arr = [];
+
+// for(let i = 1; i <= n; i++){
+//   arr[i - 1] = i;
+// }
+// console.log(arr);
+
+// let sum = arr.reduce((res, curr)=>{
+//   return res + curr;
+// })
+// console.log(sum);
+
+// Use the reduce method to calculate product of all numbers in the array
