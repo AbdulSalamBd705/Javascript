@@ -142,3 +142,39 @@
 // };
 
 // wordsCount("my name is Abdul Salam. I am a Web Developer & Designer");
+
+// let arr = ["salam", "kona", "samim"];
+// arr.forEach(function printVal(val){
+//   let words = 0;
+//   if(val === "salam" || val=== "kona"){
+//     words++;
+//   };
+//   console.log(words);
+// });
+
+// let arr = [1,2,3,4,5];
+
+// arr.forEach((val)=>{
+//   console.log(val);
+// })
+
+// let arr = ["pune", "delhi", "mumbai"];
+
+// arr.forEach((val, idx, arr)=>{
+//   console.log(val.toUpperCase(), idx, arr);
+// });
+
+// Let's Practice 
+// Qs. For a given array of numbers, print the square of each value using the forEach loop.
+
+// let nums = [2,3,4,5,6];
+
+// nums.forEach((num)=>{
+//   console.log(num*num);
+// });
+
+// let nums = [67, 52, 39];
+// let calcSquare = (num)=>{
+//   console.log(num **2);
+// }
+// nums.forEach(calcSquare);
