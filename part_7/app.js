@@ -28,3 +28,35 @@
 // btn1.addEventListener("click", handler3);
 
 // btn1.removeEventListener("click", handler3);
+
+// let modeBtn = document.querySelector("#mode");
+// let currMode = "light";
+// modeBtn.addEventListener("click", ()=>{
+//   if(currMode === "light"){
+//     currMode = "dark";
+//     document.querySelector("body").style.backgroundColor = "black";
+//   }
+//   else {
+//     currMode = 'light';
+//     document.querySelector("body").style.backgroundColor = "white";
+//   }
+//   console.log(currMode);
+// })
+
+
+let mode = document.querySelector("#mode");
+let body = document.querySelector("body");
+let currMode = "light";
+
+mode.addEventListener("click", ()=>{
+  if(currMode === "light"){
+    currMode = "dark";
+    body.classList.add("dark");
+    body.classList.remove("light");
+  }
+  else{
+    currMode = "light";
+    body.classList.remove("dark");
+    body.classList.add("light");
+  }
+})
