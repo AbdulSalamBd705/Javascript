@@ -178,3 +178,41 @@
 //   console.log(num **2);
 // }
 // nums.forEach(calcSquare);
+
+// Some More Array Methods
+// Map
+
+// Creates a new array with the results of some operation. the value its callback returns are used to form new array
+
+
+// let nums = [67, 52, 39];
+// nums.map((val)=>{
+//   console.log(val);
+// });
+
+// let newArr = nums.map((val)=>{
+//   return val **2;
+// })
+// console.log(newArr);
+
+// Some More Array Methods \
+// Filter
+// Creates a new array of elements that give true for a condition/filter
+// Eg: all even elements
+
+// let arr = [1, 2, 3, 4, 5, 6, 7];
+// let evenArr = arr.filter((val)=>{
+//   return val % 2 === 0;
+// });
+
+// console.log(evenArr);
+
+
+
+// let arr = [1,2,3,4];
+
+// const output = arr.reduce((res, curr)=>{
+//   return res + curr;
+// })
+
+// console.log(output);
